@@ -63,7 +63,8 @@ button:hover {
 }
 
 button:active {
-    scale: 1.5;
+    scale: 1.4;
+    background: #009900;
 }
 
 .clear {
