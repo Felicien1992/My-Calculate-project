@@ -54,22 +54,27 @@ button {
     font-weight: 800;
     transition: 0.3s;
 }
-button:hover{
+
+button:hover {
     opacity: 0.8;
     color: #ffffff;
     background: #6a85bb;
     transform: translateY(-3px);
 }
-button:active{
+
+button:active {
     scale: 1.5;
 }
-.clear{
+
+.clear {
     background: #991010;
 }
-.delete{
+
+.delete {
     color: #991010;
 }
-.sign{
+
+.sign {
     color: #009900;
     font-size: x-large;
 }
@@ -79,7 +84,11 @@ button:active{
     color: #000000;
     border-radius: 40px;
     background-color: #369deb;
-    box-shadow: -5px -5px 12px  #6a85bb,
+    box-shadow: -5px -5px 12px #6a85bb,
         5px 5px 12px rgba(0, 0, 0, .1.6);
+}
 
+.purcentage {
+    color: #7210af;
+    font-weight: 900;
 }

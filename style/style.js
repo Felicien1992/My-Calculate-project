@@ -21,7 +21,7 @@ function del() {
     outputScreen.value = outputScreen.value.slice(0, -1);
 }
 
-purcentage = () =>{
-   outputScreen.value = eval(outputScreen.value / 100);
+purcentage = () => {
+    outputScreen.value = eval(outputScreen.value / 100);
 }
 
