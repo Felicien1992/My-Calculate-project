@@ -1,5 +1,5 @@
 let outputScreen = document.getElementById('outputscreen');
-const purcentage = document.querySelector('.purcentage');
+// const purcentage = document.querySelector('.purcentage');
 
 function display(num) {
     outputScreen.value += num
@@ -22,7 +22,7 @@ function del() {
     outputScreen.value = outputScreen.value.slice(0, -1);
 }
 
-function Calculate (){
+purcentage = () =>{
    outputScreen.value = eval(outputScreen.value / 100);
 }
 
