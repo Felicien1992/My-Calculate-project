@@ -54,6 +54,9 @@ button {
 .clear{
     background: #991010;
 }
+.delete{
+    color: #991010;
+}
 
 .equal {
     width: 115px;
