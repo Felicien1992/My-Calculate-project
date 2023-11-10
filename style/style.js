@@ -1,5 +1,4 @@
 let outputScreen = document.getElementById('outputscreen');
-// const purcentage = document.querySelector('.purcentage');
 
 function display(num) {
     outputScreen.value += num
