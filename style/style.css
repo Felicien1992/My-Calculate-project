@@ -65,7 +65,7 @@ button {
 .equal {
     width: 115px;
     border-radius: 40px;
-    background-color: #ecf0f3;
-    box-shadow: -5px -5px 12px #ffffff,
+    background-color: #369deb;
+    box-shadow: -5px -5px 12px  #6a85bb,
         5px 5px 12px rgba(0, 0, 0, .1.6);
 }
